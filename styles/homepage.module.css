@@ -1,0 +1,9 @@
+.main_background {
+  background-image: url("/homepage/quran.jpg");
+  background-color: #cccccc;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.overlay {
+  backdrop-filter: blur(5px);
+}
